@@ -29,6 +29,3 @@ This Java Calculator project is a console-based application that performs basic 
 
 ## Usage
 Follow the prompts in the console to perform calculations. 
-
-## License
-This project is licensed under the MIT License.
